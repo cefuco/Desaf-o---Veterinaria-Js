@@ -1,0 +1,2 @@
+node index.js registrar Benito "2 años" perro blanco vomitos
+node index.js leer
